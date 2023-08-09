@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Título do Site</title>
+  </head>
+  <body>
+    <div id="header">
+      <p> Home | Galeria | Contato </p>
+      <h1> Nome do Site </h1>
+    </div>
+    <div id="aside">
+      <img src="https://www.educacao.pr.gov.br/sites/default/arquivos_restritos/files/imagem/2021-09/6154cbca1b42d-logo_edutech555x555px.png">
+    </div>
+  </html>
